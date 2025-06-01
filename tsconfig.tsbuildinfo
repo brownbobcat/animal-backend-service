@@ -1,0 +1,1 @@
+{"root":["./src/api.ts","./src/index.ts","./src/auth/auth.ts","./src/config/paths.ts","./src/services/animalservice.ts","./src/services/commands.ts","./src/services/userservice.ts","./src/types/index.ts","./src/utils/utils.ts","./src/utils/validator.ts"],"version":"5.8.2"}

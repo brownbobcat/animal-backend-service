@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "createdByUser": 1,
+    "name": "Four-toed Jerboa",
+    "sciName": "Allactaga tetradactyla",
+    "description": [
+      "The four-toed jerboa is a small nocturnal rodent with distinctive long hind legs adapted for jumping and a long tail for balance.",
+      "Native to desert regions of North Africa, this species is considered vulnerable due to habitat loss. Click <a href=\"https://www.iucnredlist.org/species/856/115056149\" target='_blank'>here</a> to learn more about jerboa conservation efforts."
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Four-toes-jerboa.jpg",
+      "https://www.joelsartore.com/wp-content/uploads/stock/ANI084/ANI084-00055-1920x1278.jpg",
+      "https://comicvine.gamespot.com/a/uploads/original/11161/111611786/8950797-5014086069-jerboa.jpeg",
+      "https://cdn.prod.website-files.com/6519c53aa0fb65e1c0df3386/66a575602656a945e63fe3e0_AdobeStock_500854577.jpeg"
+    ],
+    "video": "https://www.youtube.com/watch?v=veUFyFzV4Ao",
+    "events": [
+      {
+        "name": "Desert Mammals Exhibit",
+        "date": "05/15/2025",
+        "url": "https://www.amnh.org/exhibitions"
+      },
+      {
+        "name": "Conservation Workshop",
+        "date": "07/22/2025",
+        "url": "https://www.iucn.org/events"
+      },
+      {
+        "name": "Wildlife Photography Tour",
+        "date": "09/10/2025",
+        "url": "https://www.natgeoadventures.com/destinations/africa"
+      }
+    ]
+  },
+  {
+    "name": "Tuatara",
+    "sciName": "Sphenodon punctatus",
+    "description": [
+      "The tuatara is a remarkable reptile native to New Zealand that resembles a lizard but belongs to a distinct order, Rhynchocephalia, which dates back 250 million years.",
+      "Often referred to as a 'living fossil', tuataras have a third eye (parietal eye) on the top of their head that is visible only in hatchlings. Learn more about tuatara conservation at <a href=\"https://www.doc.govt.nz/nature/native-animals/reptiles-and-frogs/tuatara/\" target='_blank'>New Zealand Department of Conservation</a>."
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tuatara_%285205719005%29.jpg/640px-Tuatara_%285205719005%29.jpg",
+      "https://cdn.britannica.com/38/212638-050-7C3EA082/Tuatara-Sphenodon-new-zealand.jpg",
+      "https://animals.sandiegozoo.org/sites/default/files/2016-11/hero_tuatara.jpg",
+      "https://media.wired.com/photos/5b368729ce9419115f46bab4/master/w_1600%2Cc_limit/Tuatara.jpg"
+    ],
+    "video": "https://www.youtube.com/watch?v=44JUXPzEI2U",
+    "events": [
+      {
+        "name": "Tuatara Conservation Spotlight",
+        "date": "07/25/2024",
+        "url": "https://www.wellingtonzoo.com/events/"
+      },
+      {
+        "name": "New Zealand Endemic Species Exhibition",
+        "date": "04/12/2025",
+        "url": "https://www.aucklandmuseum.com/visit/exhibitions"
+      },
+      {
+        "name": "Reptile Awareness Day",
+        "date": "10/21/2025",
+        "url": "https://www.sanctuariesnz.org/events"
+      }
+    ],
+    "id": 2,
+    "createdByUser": 2
+  },
+  {
+    "name": "Sulawesi Black Sailfin Lizard",
+    "sciName": "Hydrosaurus celebensis",
+    "description": [
+      "The Sulawesi Black Sailfin Lizard is a large semi-aquatic agamid native to Indonesia, specifically the island of Sulawesi. It's characterized by its distinctive sail-like dorsal crest and unique coloration with head, neck, and shoulder regions completely black.",
+      "It's the second largest species of sailfin dragon, potentially reaching up to 1200mm (4 ft) in total length. Like other sailfin lizards, it can run short distances across water when young and is threatened by habitat loss and overcollection for the pet trade. Learn more about sailfin lizard conservation at <a href=\"https://www.iucnredlist.org/species/170480/7041005\" target='_blank'>IUCN Red List</a>."
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/Hydrosaurus_celebensis%2C_male%2C_Pattunuang%2C_Sulawesi.png",
+      "https://static.inaturalist.org/photos/43000209/large.jpg",
+      "https://preview.redd.it/the-sulawesi-black-sailfin-lizard-looks-like-a-modern-day-v0-vrtb3u138m7e1.jpg?width=960&format=pjpg&auto=webp&s=46c0ec24fcc24d9f3116a5d07668bf87fd489fd2",
+      "https://i.ytimg.com/vi/25wHiqh22as/maxresdefault.jpg"
+    ],
+    "video": "https://www.youtube.com/watch?v=25wHiqh22as",
+    "events": [
+      {
+        "name": "Indonesia Reptile Conservation Exhibition",
+        "date": "06/15/2023",
+        "url": "https://wildlife.id/exhibitions/"
+      },
+      {
+        "name": "Sulawesi Endemic Species Day",
+        "date": "08/17/2024",
+        "url": "https://selamatkanindonesia.org/events"
+      },
+      {
+        "name": "International Reptile Awareness Workshop",
+        "date": "05/22/2025",
+        "url": "https://reptileconservation.org/events"
+      }
+    ],
+    "id": 3,
+    "createdByUser": 2
+  },
+  {
+    "name": "Blue Poison Dart Frog",
+    "sciName": "Dendrobates tinctorius \"azureus\"",
+    "description": [
+      "The Blue Poison Dart Frog is a strikingly bright blue amphibian found in the 'forest islands' surrounded by the Sipaliwini Savanna in southern Suriname and adjacent northern Brazil. It is characterized by its azure blue coloration with black spots of various sizes that create a unique pattern for each individual.",
+      "These small but toxic frogs grow to about 3.0-4.5 cm in length, with females being slightly larger than males. In the wild, they feed on ants and other insects, which contributes to their toxicity. Learn more about amphibian conservation at <a href=\"https://www.amphibians.org/what-we-do/acap/\" target='_blank'>Amphibian Conservation Action Plan</a>."
+    ],
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dendrobates_azureus_qtl1.jpg",
+      "https://i.natgeofe.com/k/e688be9b-83c5-45d5-bc1c-b1b862a4215f/poison-dart-frog-blue_square.jpg",
+      "https://tnaqua.org/app/uploads/2023/03/20230117-Poison-Dart-Frog-04-scaled.jpg",
+      "https://aqua.org/assets/animals/_open_graph_1x/68038/2020-04-09_animal_blue-poison-dart-frog_center-center_001.webp"
+    ],
+    "video": "https://www.youtube.com/watch?v=jN2dy5m5UNM",
+    "events": [
+      {
+        "name": "Amphibian Conservation Awareness Day",
+        "date": "05/15/2025",
+        "url": "https://www.amphibians.org/events/"
+      },
+      {
+        "name": "Save The Rainforest Exhibition",
+        "date": "07/22/2025",
+        "url": "https://rainforestfoundation.org/events"
+      },
+      {
+        "name": "World Frog Day Celebration",
+        "date": "03/20/2026",
+        "url": "https://www.worldfrogday.org"
+      }
+    ],
+    "id": 4,
+    "createdByUser": 1
+  },
+  {
+    "name": "Pygmy Hippopotamus",
+    "sciName": "Choeropsis liberiensis",
+    "description": ["Tiny little cute hippo!!!", "Hi"],
+    "images": [
+      "https://wildark.org/wp-content/uploads/2019/05/AdobeStock_101479341_p.jpg",
+      "https://www.kget.com/wp-content/uploads/sites/2/2020/05/PHippo_003_Web.jpg?w=1280",
+      "https://www.balisafarimarinepark.com/wp-content/uploads/2023/05/zyro-image-1024x637.jpg",
+      "https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_pygmy_hippo.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/a-vbFA-s1vs",
+    "events": [
+      {
+        "name": "Meet and greet",
+        "date": "03/02/2025",
+        "url": "https://www.nationalgeographic.com/expeditions/trip-search/wildlife-trips/"
+      },
+      {
+        "name": "Museum Exhibit",
+        "date": "01/12/2024",
+        "url": "https://peabody.yale.edu/"
+      },
+      {
+        "name": "Lecture",
+        "date": "01/29/2025",
+        "url": "https://www.qu.edu/"
+      }
+    ],
+    "id": 5,
+    "createdByUser": 2
+  },
+  {
+    "name": "German Shepherd",
+    "sciName": "Canis lupus familiaris",
+    "description": [
+      "The German Shepherd, also known in Britain as an Alsatian, is a German breed of working dog of medium to large size. ",
+      "The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899."
+    ],
+    "images": [
+      "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
+      "https://cdn.britannica.com/26/249226-050-38685C11/Two-German-shepherd-dogs.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/German-shepherd-4040871920.jpg/500px-German-shepherd-4040871920.jpg"
+    ],
+    "video": "https://www.youtube.com/watch?v=p0INBNLqmPE",
+    "events": [
+      {
+        "name": "Meet and greet",
+        "date": "03/02/2025",
+        "url": "https://www.nationalgeographic.com/expeditions/trip-search/wildlife-trips/"
+      },
+      {
+        "name": "Museum Exhibit",
+        "date": "01/12/2024",
+        "url": "https://peabody.yale.edu/"
+      },
+      {
+        "name": "Lecture",
+        "date": "01/29/2025",
+        "url": "https://www.qu.edu/"
+      }
+    ],
+    "id": 7,
+    "createdByUser": 1
+  }
+]
